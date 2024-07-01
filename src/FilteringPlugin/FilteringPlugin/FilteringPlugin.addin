@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application FilteringPlugin</Name>
+    <Assembly>FilteringPlugin.dll</Assembly>
+    <FullClassName>FilteringPlugin.App</FullClassName>
+    <ClientId>6E35A034-7003-45B0-8427-F126C732D96E</ClientId>
+    <VendorId>com.typepad.2611 Labs</VendorId>
+    <VendorDescription>2611 Labs</VendorDescription>
+  </AddIn>
+</RevitAddIns>
