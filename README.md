@@ -4,7 +4,7 @@ A Revit Addin colorize Revit models via applying a solid hatch with colors to vi
 
 It was origonaly developed to aide in Photoshop/ Affinity based workflows where select by color, type etc was hard.  
 
-I think its Revit 2022, but could be 2021
+Revit 2021
 
 It would like to be developed furuther to use consistant colors and create masks for AI training task.
 
